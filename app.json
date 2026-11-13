@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Cyber Runner",
+    "slug": "cyber-runner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    },
+    "android": {
+      "package": "com.estudiante.cyberrunner",
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.estudiante.cyberrunner"
+    }
+  }
+}
