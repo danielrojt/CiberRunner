@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "Cyber Runner",
-    "slug": "cyber-runner",
+    "slug": "ciberrunner",
+    "owner": "a7s-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
@@ -17,6 +18,11 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.estudiante.cyberrunner"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "963e3f47-ac06-404b-a62d-e623f42598b3"
+      }
     }
   }
 }
